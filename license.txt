@@ -1,11 +1,4 @@
-#Exp:
-# Khách mua gói 1 tháng (Hết hạn ngày 17/04/2026)
+# Khach mua goi 1 thang (Het han ngay 2026-04-17)
 BFEBFBFF000906EA|2026-04-17
-
-# Khách mua vĩnh viễn
-12345678-ABCD-1234-ABCD-1234567890AB|lifetime
-
-# Khách xin test thử 1 ngày (Hết hạn 18/03/2026)
-9876543210FEDCBA|2026-03-18
-
-#Test VM-Test
+# Khach mua vinh vien
+12345678-ABCD-1234-ABCD-1234567890AB|untime
