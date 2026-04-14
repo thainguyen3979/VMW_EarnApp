@@ -1,7 +1,5 @@
 # Khách mua goi (Het han ngay 2026-04-17)
-
 BFEBFBFF000906EA|2026-04-17
 
 # Khách mua vĩnh viễn
-
 12345678-ABCD-1234-ABCD-1234567890AB|untime
