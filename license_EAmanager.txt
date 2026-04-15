@@ -1,5 +1,5 @@
 # LATEST_VERSION|1.0.0
-# UPDATE_URL|https://github.com/thainguyen3979/VMW_EarnApp/releases/download/VMW_EarnApp/Manager.zip
+# UPDATE_URL|https://github.com/thainguyen3979/VMW_EarnApp/releases/download/VMW_EarnApp/ManagerUpdate.zip
 
 # Khách mua goi (Het han ngay 2026-04-17)
 BFEBFBFF000906EA|2026-04-17
