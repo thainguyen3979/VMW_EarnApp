@@ -1,7 +1,5 @@
 # LATEST_VERSION|1.0.1
 # UPDATE_URL|https://github.com/thainguyen3979/VMW_EarnApp/releases/download/VMW_EarnApp/ManagerUpdate.zip
-# UPDATE_SHA256|10e2eeda53bed84b629fdeaa3aa48ced9671555df5322865fc428ddbc86b4aae
-# UPDATE_EXE|EAManagerPro.exe
 
 
 # Khách mua goi (Het han ngay 2026-04-17)
