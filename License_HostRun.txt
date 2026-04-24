@@ -1,5 +1,4 @@
 # HostEA: Mã HIW|Hạn sử dụng|Số VMs Max
-# GuestEA: Mã HIW|Hạn sử dụng
 
 # Khach mua vinh vien
 12345678-ABCD-1234-ABCD-1234567890AB|untime|99
