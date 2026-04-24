@@ -1,4 +1,4 @@
-# LATEST_VERSION|1.0.0
+# LATEST_VERSION|1.0.1
 # UPDATE_URL|https://github.com/thainguyen3979/VMW_EarnApp/releases/download/VMW_EarnApp/ManagerUpdate.zip
 
 # Key VV
